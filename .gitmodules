@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/vivagarwal/pastebin_backend.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/vivagarwal/image_processing_frontend.git
+[submodule "pastebin_frontend"]
+	path = pastebin_frontend
+	url = https://github.com/vivagarwal/pastebin_frontend

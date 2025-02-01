@@ -9,7 +9,7 @@ This project is a simple **Pastebin-like application** that allows users to crea
 
 ## 📂 **Project Structure**
 - **Backend Repo:** [Pastebin Backend](https://github.com/vivagarwal/pastebin_backend)
-- **Frontend Repo:** [Pastebin Frontend](https://github.com/vivagarwal/image_processing_frontend)
+- **Frontend Repo:** [Pastebin Frontend](https://github.com/vivagarwal/pastebin_frontend)
 
 ---
 
