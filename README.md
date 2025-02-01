@@ -32,10 +32,10 @@ To run the backend, set up the following environment variables in a `.env` file 
 ```
 MONGODB_URL=<Your MongoDB Atlas URL>
 FRONTEND_URL=<Frontend URL>
+```
 Example:
 ```
 FRONTEND_URLL=http://localhost:5173
-```
 ```
 
 ### Core Backend Functionalities
