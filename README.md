@@ -2,8 +2,19 @@
 
 This project is a simple **Pastebin-like application** that allows users to create snippets with optional expiration dates and access limits. It is designed with a **Spring Boot backend** and a **React frontend (Vite + Tailwind CSS)**. The backend manages snippet creation and retrieval, while the frontend provides an intuitive UI for interacting with the backend.
 
-## 🔗 **Live Demo**
-- [Frontend Live Demo](https://pastebin-frontend-inky.vercel.app)
+## 🌐 Live Demo
+
+Explore the live application:
+
+🔗 **[https://pastebin-frontend-inky.vercel.app/]**
+
+---
+
+### 🎥 Demo GIF
+
+![Demo](media/demo_snippet.gif)
+
+---
 
 ---
 
